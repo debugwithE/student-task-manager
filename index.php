@@ -118,7 +118,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' ||
     <p>Built with PHP and deployed on Red Hat OpenShift.</p>
 
     <p>
-        Developed by: YOUR FULL NAME
+        Developed by: Esha Bhattacharya
     </p>
 
     <p>
