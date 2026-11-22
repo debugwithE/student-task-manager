@@ -115,8 +115,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' ||
     <?php endif; ?>
 
     <footer>
-        <p>Built with PHP and deployed on Red Hat OpenShift.</p>
-    </footer>
+    <p>Built with PHP and deployed on Red Hat OpenShift.</p>
+
+    <p>
+        Developed by: YOUR FULL NAME
+    </p>
+
+    <p>
+        GitHub: debugwithE
+    </p>
+</footer>
 
 </div>
 
